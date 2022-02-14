@@ -150,7 +150,7 @@ label[for='ckbox']::before {
 }
 
 .wrapper__text {
-    font-family: 'Quintessential', cursive;
+    /* font-family: 'Quintessential', cursive; */
     font-size: 25px;
     transition: 2s;
     color: white;
