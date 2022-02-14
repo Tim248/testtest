@@ -98,7 +98,7 @@ body {
 }
 
 .modal__text {
-    font-family: 'Quintessential', cursive;
+    /* font-family: 'Quintessential', cursive; */
     text-transform: capitalize;
     color: white;
     font-size: 25px;
